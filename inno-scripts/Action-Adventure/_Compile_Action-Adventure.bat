@@ -1,0 +1,45 @@
+@echo off
+
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "AirStrike 2 Gulf Thunder.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "AirStrike 2.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "AirStrike 3D.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Alien Stars.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Astro Avenger.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Axis.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Beetle Junior.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Brave Dwarves 2 Deluxe.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Chowder.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Clash 'N Slash.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Crimsonland.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Feeding Frenzy 2.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Feeding Frenzy.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Flying Leo.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Garden Dreams.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Get Medieval.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Granny in Paradise.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Iggle Pop.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Insaniquarium Deluxe.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Oasis.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Panda Craze Gold.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Scuba in Aruba.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Shroomz.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Snail Mail.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "SpongeBob's Obstacle Odyssey.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Star Monkey.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Super Granny 3.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Swarm.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "The Treasure on Bing Bong Island.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Think Tanks.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Tradewinds 2.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Tradewinds Legends.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Turtle Bay.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Turtle Odyssey 2.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Turtle Odyssey.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Westward.iss"
+"C:\Program Files\Inno Setup 5\Compil32.exe" /cc "Wik & The Fable of Souls.iss"
+
+
+cls
+echo Action-Adventure Scripts Compiling Complete!
+pause>nul
+exit

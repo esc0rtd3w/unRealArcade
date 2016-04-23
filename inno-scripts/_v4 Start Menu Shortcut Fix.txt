@@ -1,0 +1,16 @@
+add line:
+
+copy desktop shortcut link (line 27), paste to new line (line 28) and change 
+
+DestDir: {userdesktop}  
+>>>>
+C:\Documents and Settings\All Users\Start Menu\Programs\unRealArcade\GameName
+
+
+delete line 30:
+
+Name: {group}\GameName; Filename: {app}\cRypTiC.exe
+
+
+
+must be done manually :(

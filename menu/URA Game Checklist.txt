@@ -1,0 +1,617 @@
+unRealArcade Games					[Game Count: 508]	
+
+
+Fully Working Guideline:
+
+1) The game launches from the installer properly when box is checked.
+2) All shortcuts work and have icons (desktop & start menu).
+3) The game runs in full version mode for at least 61 minutes.
+
+=========================================================================
+OK - Mark with *
+
+Shortcut not working - Mark with ^^ , @@, or ^@ (see example)
+
+Missing Icons - Mark with $$
+
+60 minute Demo Mode - Mark with %%
+
+Game does not load - Mark with ##
+
+
+Example:	Shortcut not working: Start Menu: GameName1^^     
+
+				      Desktop: GameName1@@
+
+				      Both: GameName1^@
+
+		Missing Icons: GameName1$$
+
+		60 minute Demo Mode: GameName1%%
+
+		Game does not load: GameName1##
+
+
+=========================================================================
+
+
+
+
+---------------- 
+Action-Adventure 
+---------------- 
+ 
+AirStrike 2 Gulf Thunder
+AirStrike 2
+AirStrike 3D
+Alien Stars
+Astro Avenger
+Axis
+Brave Dwarves 2 Deluxe
+Chowder
+Clash 'N Slash
+Crimsonland
+Feeding Frenzy 2
+Feeding Frenzy
+Flying Leo
+Garden Dreams
+Get Medieval
+Granny in Paradise
+Iggle Pop
+Insaniquarium Deluxe
+Oasis
+Panda Craze Gold
+Scuba in Aruba
+Shroomz
+Snail Mail
+SpongeBob's Obstacle Odyssey
+Star Monkey
+Super Granny 3
+Swarm
+The Treasure on Bing Bong Island
+Think Tanks
+Tradewinds 2
+Tradewinds Legends
+Turtle Bay
+Turtle Odyssey
+Wik & The Fable of Souls
+ 
+ 
+------ 
+Arcade 
+------ 
+ 
+Action Ball Deluxe
+Adventure Ball
+Aironix
+Alien Sky
+AquaPark
+Astrobatics
+AstroPop Deluxe
+Atari Arcade Hits
+Atomaders
+Atomic Pongling
+Aztec Ball
+Ballistik
+Balls of Steel - Creature Attack!
+BreakQuest
+Bricks of Atlantis
+Bricks of Camelot
+Bricks of Egypt 2
+Bricks of Egypt
+Bugatron Worlds
+Bugix
+Cactus Bruce and the Corporate Monkeys
+Caramba Deluxe
+Chicken Attack
+Chicken Rush
+Cosmic Bugs
+Devil's Island Pinball
+FizzBall
+Flyonoid
+FreakOut Gold
+Froggy Castle 2
+Froggy Castle
+Funkiball Adventure
+Gold Miner Special Edition
+Gold Miner Vegas
+Hammer Heads Deluxe
+Hamsterball
+Heavy Weapon Deluxe
+Hyperballoid - The Next Challenge
+Hyperballoid
+Impact
+Incredible Ink
+Invadazoid
+Magic Ball 2 - New Worlds
+Magic Ball 2
+Marble Blast Gold
+NeoBall
+Orbz
+Platypus
+Rebound Lost Worlds - Recharged
+Rebound Lost Worlds
+Rebound
+Rocks N' Rockets
+Runic
+Shattera
+Snowball Run
+Snowy - Space Trip
+Snowy - The Bear's Adventures
+Snowy - Treasure Hunter 2
+Snowy - Treasure Hunter
+Spin & Win
+Splash
+Sportball Challenge
+Star Defender 2
+Strike Ball 2
+Super Tap-a-Jam*
+Tamale Loco - Rumble in the Desert II
+Temple of Bricks
+Time Breaker
+UltraBall
+Varmintz
+ 
+ 
+----- 
+Board 
+----- 
+ 
+Chessmaster Challenge
+Domino Master Gold
+Kasparov Chessmate
+Monopoly - Here and Now Edition
+Monopoly 3
+Risk II
+The Game of Life
+Trivial Pursuit - Silver Screen Edition
+Ultimate Dominoes
+Yahtzee
+ 
+ 
+---- 
+Card 
+---- 
+ 
+5 Card Slingo Deluxe
+Aloha Solitaire
+Ancient Hearts and Spades
+Ancient Spider Solitaire
+Ancient Tripeaks 2
+Ancient Tripeaks
+Charm Solitaire
+Compulsive Solitaire
+FATE The Carnivale Game
+Five Card Deluxe
+Five Card Frenzy
+Flip Wit
+Hotel Solitaire
+Hoyle Solitaire - Miami Beach
+Jewel Quest Solitaire
+Lucky Streak Poker
+Mystery Solitaire - Secret Island
+Poker Superstars 2
+Poker Superstars Invitational Tournament
+Puzzle Solitaire
+Super GameHouse Blackjack
+Super GameHouse Solitaire Volume 2
+Super GameHouse Solitaire Volume 3
+Super GameHouse Solitaire
+Texas Hold 'Em
+ThwartPoker's All-Skill Poker Tour
+Top Ten Solitaire
+Tri-Peaks Solitaire to Go
+ 
+ 
+------ 
+Casino 
+------ 
+ 
+Casino Island To Go
+Hard Rock Casino
+Hole In One Slots
+Mega Monty
+Saints & Sinners Bingo
+Slingo Casino Pak
+ 
+ 
+------ 
+Jigsaw 
+------ 
+ 
+Jigsaw Puzzle Golden Edition
+Jigsaw Puzzle Nature Edition
+Jigsaw Puzzle Platinum Edition
+Jigsaw365
+Pastime Puzzles Deluxe - The Fifties
+Playtonium Jigsaw Animals of Africa
+Playtonium Jigsaw Celebration of America
+Playtonium Jigsaw Enchanted Forest
+Playtonium Jigsaw Garfield Goes to Pieces
+Playtonium Jigsaw Patterns in Nature
+Puzzaz
+Super Jigsaw Nick Jr Pack
+Super Jigsaw Puzzle Pack
+Super Jigsaw Ultimate Puzzle Pack
+ 
+ 
+-------- 
+Mahjongg 
+-------- 
+ 
+Caribbean Mah Jong
+Emperor's Mahjong
+Kyodai Mahjongg
+Luxor MahJong
+Mah Jong Jade Expedition
+Mah Jong Medley
+Mah Jong Quest
+Mahjong Century
+Mahjong Escape - Ancient China
+Mahjong Fortuna 2
+Mahjong Garden To Go
+Mahjong The Endless Journey
+Mahjong Towers Eternity
+Mahjongg Artifacts
+Mahjongg Fortuna
+Mahjongg Towers II
+Mahjongg Towers
+NingPo Mahjong
+Rhiannon's Realm Celtic Mahjongg
+Super Mahjong Solitaire
+ 
+ 
+------ 
+Puzzle 
+------ 
+ 
+10 Talismans
+5 Spots II
+5 Spots
+7 Wonders
+A Series of Unfortunate Events
+Abundante!
+Abundante
+Adventure Inlay Safari Edition
+Adventure Inlay
+Age of Japan
+Alchemy
+Ancient Sudoku
+Angkor
+Aqua Pearls
+Aquabble Quest
+Arctic Quest
+Atlantis Quest
+Atlantis
+Atomica Deluxe
+Avalanche
+Bang On Blitz
+Barnyard Invasion
+Bejeweled 2 Deluxe
+Bengal - Game of Gods
+BeTrapped!
+Bewitched
+Big Kahuna Reef 2 - Chain Reaction
+Birds On A Wire
+Bistro Stars
+Bloxxit
+Bounce Out Blitz
+Brickshooter Egypt
+Bubblefish Bob
+Bugged Out
+Bunny Bounce Deluxe
+Bursting Bubbles
+Buzzy Bumble
+Cake Mania
+Cannon Blast!
+Captain BubbleBeard's Treasure
+Caveman Rock
+Chainz 2 - Relinked
+Chainz
+Chameleon Gems
+Charm Tale
+Chicken Invaders 2
+Chips
+Chuzzle Deluxe
+Collapse! Crunch
+Color Harmony
+Combo Chaos
+Congo Cube
+Cosmic Stacker
+Crime Puzzle
+Crystal Path
+Crystalix
+Cubis Gold 2
+Cubis Gold
+Cycles
+Da Vinci's Secret
+Delicious Deluxe
+Diamond Dash
+Diamond Detective
+Diamond Drop
+Diamond Mine
+Digby's Donuts
+Diner Dash 2 - Restaurant Rescue
+Diner Dash 3 - Flo on the Go
+Diner Dash
+Dropheads
+Dynomite
+Electric
+Equilibria
+eTaco
+Fairies
+Family Feud 2
+Family Feud
+Fiber Twig 2
+Fiber Twig
+Fireworks Extravaganza
+Fitznik
+Flip or Flop
+Flower Quest
+Flower Shop - Big City Break
+Fortune Tiles Gold
+Fresco Wizard
+Fruit Lockers
+Fruit Smash
+Full Circle
+GameHouse Sudoku
+Gearz
+Gem Shop
+Glow Worm
+Glyph
+Go Bingo
+Gold Fever
+Gold Rush
+Golden Sub
+Gravity Gems
+Gravity
+High Roller
+Holiday Express
+Huntsville - Mystery Case Files
+I SPY Fantasy
+I SPY Spooky Mansion Deluxe
+I SPY Treasure Hunt
+Ice Breaker
+Inca Quest
+Incadia
+Inspector Parker
+Inspheration
+JEOPARDY!
+Jewel Miner
+Jewel of Atlantis
+Jewel Quest
+Jurassic Realm
+Karu
+King Kong - Skull Island Adventure
+Legend of Aladdin
+LEGO Chic Boutique
+Lifetime RSVP
+Loco
+Lost City of Gold
+Lotus Deluxe
+Luck Charm Deluxe
+Luxor - Amun Rising
+Luxor 2
+Luxor Bundle Pack
+Luxor
+Mad Caps
+Magic Inlay
+Magic Match
+Magic Vines
+Mah-Jomino
+Maui Wowee
+Memory Loops
+Mind Machine
+Mirror Magic
+Mosaic - Tomb of Mystery
+Mummy Maze Deluxe
+Mysteries of Horus
+Mystery Case Files - Prime Suspects
+Mysteryville
+Mystic Inn
+Noah's Ark Deluxe
+Ocean Express
+Pantheon
+Paparazzi
+Pat Sajak's Trivia Gems
+Penguin Puzzle
+Pharaoh's Arrows
+Phlinx to Go
+Picture Pyramid
+Pipsoh!
+Pirate Poppers
+Pixelus Deluxe
+Pizza Frenzy
+Plantasia
+Poker Pop
+Poppit! To Go
+Power Chips
+Puzz Loop
+Puzzle Blast
+Puzzle Express
+Puzzle Inlay
+Puzzle Myth
+QBeez 2
+Qbeez
+Rain Drops
+Rainbow Mystery
+Rainbow Web
+Realms of Gold
+Rock & Roll JEOPARDY!
+Rocket Mania
+Roller Rush
+Rumble Cube
+Runic One
+Scarabs of Pharaoh
+Shape Shifter
+Shapo Gold
+Shopmania
+Sky Bubbles Deluxe
+Slingo Deluxe
+Slingo Quest
+Slyder Adventures
+Snowy - Puzzle Islands
+Spacebound
+SpongeBob SquarePants Collapse!
+Spring Sprang Sprung
+SquareOff Gold
+Stones of Khufu
+Sudoku - Latin Squares Gold
+Sudoku Maya Gold
+Sudoku Quest
+Super Bounce Out
+Super Candy Cruncher
+Super Collapse 2 Platinum
+Super Collapse 2
+Super Collapse 3
+Super Collapse! Puzzle Gallery
+Super Collapse
+Super Gem Drop
+Super Glinx
+Super Groovy
+Super Nisqually
+Super PileUp!
+Super Pop and Drop
+Sveerz
+Talismania Deluxe
+Teddy Factory
+The Da Vinci Code
+The Legend of El Dorado
+The Sudoku Challenge
+Tiki Boom Boom
+Tip Top
+Treasure Fall
+Treasure Island
+Treasures of Montezuma
+Trick or Treat Smash
+Triclops
+TriJinx
+Trivia Machine
+Tropical Swaps
+Tropix
+Tumblebugs
+Twist Lingo
+Twisty Tracks
+Walls of Jericho
+Wild West Wendy
+Wobbly Bobbly
+Wonderlines
+Xango Tango
+Zodiac Tower
+Zulu Gems
+Zuma Deluxe
+Zzed
+ 
+ 
+------------- 
+Racing-Flying 
+------------- 
+ 
+Master of the Skies - The Red Ace
+Pearl Harbor - Zero Hour
+Red Ace Squadron
+WWII Pacific Heroes
+ 
+ 
+--- 
+Sim 
+--- 
+ 
+Ant War
+Cinema Tycoon
+Deep Sea Tycoon 2
+Deep Sea Tycoon
+Fish Tycoon
+Lemonade Tycoon 2
+Lemonade Tycoon
+Monopoly Tycoon
+Moon Tycoon
+RollerCoaster Tycoon
+Starlines Inc
+The Apprentice
+Virtual Villagers
+ 
+ 
+------ 
+Sports 
+------ 
+ 
+Backspin Billiards
+Cue Master Gold
+Golf Adventure Galaxy
+Gutterball 2
+Gutterball 3D
+LINKS Course Challenge Chateau Whistler Edition
+Mini Golf Gold
+Mini Golf Megaworld
+Pin High Country Club Golf
+RocketBowl
+Super Pool
+Ten Pin Championship Bowling Pro
+Tennis Titans
+Touchdown Madness
+Toy Golf
+ 
+ 
+---- 
+Word 
+---- 
+ 
+Academy of Magic - Word Spells
+Acropolis
+Babel Deluxe
+Big Kahuna Words
+Boggle Supreme
+Bonnie's Bookstore
+Bookworm Adventures
+Bookworm Deluxe
+Chicktionary
+Dungeon Scroll
+Flip Words
+GameHouse Word Collection
+Great Wall of Words
+Greedy Words
+Icy Spell
+Infinite Crosswords
+Jig Words
+Pat Sajak's Lucky Letters
+Puzzle Word
+Reader's Digest Super Word Power
+SandScript
+Scrabble - GameHouse Edition
+Scrabble Blast!
+Scrabble Rack Attack
+Scrabble
+Shangri La Deluxe
+Slot Words
+Spell Bound
+Spellagories
+Spellunker
+Spelvin
+Spider-Man 2 Web of Words
+Super TextTwist
+Super WHATword
+Super Wild Wild Words
+Text Express
+Thomas and the Magical Words
+Typer Shark Deluxe
+USA Today - Infinite Crosswords
+Weave Words
+Wheel of Fortune
+Word Buzz Gold
+Word Challenger
+Word Craft
+Word Cross
+Word Harmony
+Word Island
+Word Jolt
+Word Mojo Gold
+Word Monaco
+Word Search Deluxe
+Word Slinger
+Word Spiral
+Word Wizard
+Word Zen - Mahjongg Reinvented
+WordJong To Go
+WordUp
+Writer's Block
