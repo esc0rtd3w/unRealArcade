@@ -1,0 +1,11 @@
+00403009 | 75 14                    | jnz unrealarcade.40301F                 | menu.ini
+
+004293C3 | 75 25                    | jnz unrealarcade.4293EA                 | menu.ini
+
+00403074 | 74 7A                    | je unrealarcade.4030F0                  | << INI Not Found Error
+
+
+
+
+
+
