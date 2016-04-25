@@ -20,7 +20,7 @@ echo Action-Adventure >> "URA Games.txt"
 echo ---------------- >> "URA Games.txt"
 echo. >> "URA Games.txt"
 
-dir "Action-Adventure\_rar\" >> "URA Games.txt" /b
+dir "Action-Adventure\" >> "URA Games.txt" /b
 
 echo. >> "URA Games.txt"
 echo. >> "URA Games.txt"
@@ -33,7 +33,7 @@ echo Arcade >> "URA Games.txt"
 echo ------ >> "URA Games.txt"
 echo. >> "URA Games.txt"
 
-dir "Arcade\_rar\" >> "URA Games.txt" /b
+dir "Arcade\" >> "URA Games.txt" /b
 
 echo. >> "URA Games.txt"
 echo. >> "URA Games.txt"
@@ -47,7 +47,7 @@ echo ----- >> "URA Games.txt"
 echo. >> "URA Games.txt"
 
 
-dir "Board\_rar\" >> "URA Games.txt" /b
+dir "Board\" >> "URA Games.txt" /b
 
 echo. >> "URA Games.txt"
 echo. >> "URA Games.txt"
@@ -60,7 +60,7 @@ echo Card >> "URA Games.txt"
 echo ---- >> "URA Games.txt"
 echo. >> "URA Games.txt"
 
-dir "Card\_rar\" >> "URA Games.txt" /b
+dir "Card\" >> "URA Games.txt" /b
 
 echo. >> "URA Games.txt"
 echo. >> "URA Games.txt"
@@ -73,7 +73,7 @@ echo Casino >> "URA Games.txt"
 echo ------ >> "URA Games.txt"
 echo. >> "URA Games.txt"
 
-dir "Casino\_rar\" >> "URA Games.txt" /b
+dir "Casino\" >> "URA Games.txt" /b
 
 echo. >> "URA Games.txt"
 echo. >> "URA Games.txt"
@@ -86,7 +86,7 @@ echo Jigsaw >> "URA Games.txt"
 echo ------ >> "URA Games.txt"
 echo. >> "URA Games.txt"
 
-dir "Jigsaw\_rar\" >> "URA Games.txt" /b
+dir "Jigsaw\" >> "URA Games.txt" /b
 
 echo. >> "URA Games.txt"
 echo. >> "URA Games.txt"
@@ -99,7 +99,7 @@ echo Mahjongg >> "URA Games.txt"
 echo -------- >> "URA Games.txt"
 echo. >> "URA Games.txt"
 
-dir "Mahjongg\_rar\" >> "URA Games.txt" /b
+dir "Mahjongg\" >> "URA Games.txt" /b
 
 echo. >> "URA Games.txt"
 echo. >> "URA Games.txt"
@@ -112,7 +112,7 @@ echo Puzzle >> "URA Games.txt"
 echo ------ >> "URA Games.txt"
 echo. >> "URA Games.txt"
 
-dir "Puzzle\_rar\" >> "URA Games.txt" /b
+dir "Puzzle\" >> "URA Games.txt" /b
 
 echo. >> "URA Games.txt"
 echo. >> "URA Games.txt"
@@ -125,7 +125,7 @@ echo Racing-Flying >> "URA Games.txt"
 echo ------------- >> "URA Games.txt"
 echo. >> "URA Games.txt"
 
-dir "Racing-Flying\_rar\" >> "URA Games.txt" /b
+dir "Racing-Flying\" >> "URA Games.txt" /b
 
 echo. >> "URA Games.txt"
 echo. >> "URA Games.txt"
@@ -138,7 +138,7 @@ echo Sim >> "URA Games.txt"
 echo --- >> "URA Games.txt"
 echo. >> "URA Games.txt"
 
-dir "Sim\_rar\" >> "URA Games.txt" /b
+dir "Sim\" >> "URA Games.txt" /b
 
 echo. >> "URA Games.txt"
 echo. >> "URA Games.txt"
@@ -151,7 +151,7 @@ echo Sports >> "URA Games.txt"
 echo ------ >> "URA Games.txt"
 echo. >> "URA Games.txt"
 
-dir "Sports\_rar\" >> "URA Games.txt" /b
+dir "Sports\" >> "URA Games.txt" /b
 
 echo. >> "URA Games.txt"
 echo. >> "URA Games.txt"
@@ -164,7 +164,7 @@ echo Word >> "URA Games.txt"
 echo ---- >> "URA Games.txt"
 echo. >> "URA Games.txt"
 
-dir "Word\_rar\" >> "URA Games.txt" /b
+dir "Word\" >> "URA Games.txt" /b
 
 
 exit
